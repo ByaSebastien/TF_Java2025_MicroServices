@@ -18,10 +18,6 @@
             <groupId>be.bstorm</groupId>
             <artifactId>shared-service</artifactId>
         </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot</artifactId>
-        </dependency>
     </dependencies>
 
     <build>
